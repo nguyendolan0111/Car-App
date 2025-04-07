@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>AppSetting_vn.qm</file>
+        <file>AppSetting_en.qm</file>
+    </qresource>
+</RCC>

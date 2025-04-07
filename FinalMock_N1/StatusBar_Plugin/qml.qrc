@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>MyButton.qml</file>
+        <file>MyStatusBar.qml</file>
+    </qresource>
+</RCC>

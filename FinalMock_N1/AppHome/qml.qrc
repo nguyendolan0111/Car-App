@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Common/MyApp.qml</file>
+        <file>Common/MyScrollingText.qml</file>
+        <file>Page1.qml</file>
+        <file>Page2.qml</file>
+        <file>IconApp/00_Music.png</file>
+        <file>IconApp/01_Video.png</file>
+        <file>IconApp/02_Setting.png</file>
+        <file>IconApp/home.png</file>
+    </qresource>
+</RCC>

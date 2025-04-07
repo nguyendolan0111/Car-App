@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>image/backward.png</file>
+        <file>image/fast-backward.png</file>
+        <file>image/fast-forward.png</file>
+        <file>image/forward.png</file>
+        <file>image/pause.png</file>
+        <file>image/play.png</file>
+        <file>image/random.png</file>
+        <file>image/repeat.png</file>
+        <file>image/unvolume.png</file>
+        <file>image/volumne.png</file>
+        <file>qml/component/MyButton.qml</file>
+        <file>qml/screen/MusicListScreen.qml</file>
+        <file>qml/component/MyButtonImage.qml</file>
+        <file>qml/component/MyRectangle.qml</file>
+        <file>qml/component/MySlider.qml</file>
+        <file>qml/component/PathViewMusic.qml</file>
+        <file>qml/component/ScrollingText.qml</file>
+        <file>qml/component/ScrollingTextList.qml</file>
+        <file>qml/screen/MusicPlayerScreen.qml</file>
+        <file>qml/screen/MusicSearchScreen.qml</file>
+        <file>image/unrepeat.png</file>
+        <file>image/unrandom.png</file>
+        <file>image/run.gif</file>
+        <file>image/search.png</file>
+        <file>image/list.png</file>
+        <file>image/home.png</file>
+        <file>image/back.png</file>
+        <file>image/playStatusBar.png</file>
+    </qresource>
+</RCC>

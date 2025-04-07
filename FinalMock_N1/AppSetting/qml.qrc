@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Common/ButtonVolume.qml</file>
+        <file>Common/CheckBoxDate.qml</file>
+        <file>Common/MyRadioButton.qml</file>
+        <file>Common/PathViewDate.qml</file>
+        <file>Common/TitleRect.qml</file>
+        <file>DateSetting.qml</file>
+        <file>LanguageSetting.qml</file>
+        <file>SystemInformation.qml</file>
+        <file>VolumeSetting.qml</file>
+        <file>image/information.jpg</file>
+        <file>image/settings.png</file>
+        <file>image/home.png</file>
+        <file>image/back.png</file>
+    </qresource>
+</RCC>

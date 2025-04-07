@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>AppMusic_vn.qm</file>
+        <file>AppMusic_en.qm</file>
+    </qresource>
+</RCC>

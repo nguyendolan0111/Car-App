@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>AppVideo_vn.qm</file>
+        <file>AppVideo_en.qm</file>
+    </qresource>
+</RCC>
